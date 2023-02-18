@@ -14,8 +14,8 @@ aleatoriamente uma das trez possibilidades também, logo em seguida uma mensagem
 ## Author
 
 👤 **Gustavo Vieira**
-Github: @VIEIRAGUSTAVO
-Linkedin: @Gustavo Vieira
+* Github: [@VIEIRAGUSTAVO] (https://www.linkedin.com/in/gustavo-vieira-9237ab223/)
+* Linkedin: [@Gustavo Vieira]([https://www.linkedin.com/in/antonio-costa-099ab0182/](https://www.linkedin.com/in/gustavo-vieira-9237ab223/))
 
 ## Contributing
 Contributions, issues and feature requests are welcome!
