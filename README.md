@@ -4,8 +4,8 @@
 
 ## Jogo criado a partir do Android Studio
 
-<p> A ideia é recriar o jogo Pedra Papel Tesoura de forma simples, como desafio para aprendizado. Você seleciona se quer pedra, papel, ou tesoura e o sistema 
-aleatoriamente uma das trez possibilidades também, logo em seguida uma mensagem aparece informando se você ganhou, perdeu, ou empatou, como na imagem abaixo que mostra um caso de empate onde o jogador escolheu papel e o sistema tambem.</p>
+<p> A ideia é recriar o jogo Pedra Papel Tesoura de forma simples, como desafio para aprendizado. Você seleciona se quer pedra, papel, ou tesoura e o sistema escolhe 
+aleatoriamente uma das trez possibilidades também, logo em seguida uma mensagem aparece informando se você ganhou, perdeu, ou empatou, como na imagem abaixo que resenta uma situação de empate onde o jogador escolheu papel e o sistema tambem.</p>
 
 <img width="223" alt="jogo" src="https://user-images.githubusercontent.com/89616918/219824762-74eb160a-a4c6-478e-a4d1-38f6246f1791.png">
 
