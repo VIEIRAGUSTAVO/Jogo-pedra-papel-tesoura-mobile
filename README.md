@@ -26,7 +26,7 @@ Give a ⭐️ if this project helped you!
 ## License
 
 Copyright © 2021 [Gustavo Vieira](https://github.com/VIEIRAGUSTAVO).<br />
-This project is [MIT](https://github.com/VIEIRAGUSTAVO/Algoritimo-de-busca-SVM-python/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/VIEIRAGUSTAVO/Jogo-pedra-papel-tesoura-mobile/new/main) licensed.
 
 ---
 
