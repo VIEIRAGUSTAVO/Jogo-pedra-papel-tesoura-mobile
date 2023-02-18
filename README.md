@@ -26,7 +26,7 @@ Give a ⭐️ if this project helped you!
 ## License
 
 Copyright © 2021 [Gustavo Vieira](https://github.com/VIEIRAGUSTAVO).<br />
-This project is [MIT](https://github.com/VIEIRAGUSTAVO/Jogo-pedra-papel-tesoura-mobile/new/main) licensed.
+This project is [MIT](https://github.com/VIEIRAGUSTAVO/Jogo-pedra-papel-tesoura-mobile/commit/9ee3319e72c79f645016227bf26f7228526d05a5) licensed.
 
 ---
 
